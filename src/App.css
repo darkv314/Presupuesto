@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* main {
+    display: grid;
+    min-height: 100svh;
+    place-content: center;
+}
+
+main > div {
+    box-shadow: 0 0px 1px rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    display: grid;
+    gap: 1rem;
+    border-radius: 10px;
+    place-items: center;
+}
+
+main input {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+main button {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 0.1rem;
+} */
